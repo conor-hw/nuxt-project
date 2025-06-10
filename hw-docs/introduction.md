@@ -8,4 +8,4 @@ It demonstrates a fully fledged fullstack application built with Nuxt3, includin
 
 - Nuxt 3 Framework
 - Adherence to RealWorld spec
-- Best practices for Nuxt 3 development.
+- Best practices for Nuxt 3 development..
