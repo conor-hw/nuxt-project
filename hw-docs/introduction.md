@@ -10,3 +10,4 @@ It demonstrates a fully fledged fullstack application built with Nuxt3, includin
 - Adherence to RealWorld spec
 - Best practices for Nuxt 3 development..
 - test wednesday
+- Test Alex
