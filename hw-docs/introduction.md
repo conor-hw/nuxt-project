@@ -1,2 +1,0 @@
-# Nuxt Project Documentation
-
